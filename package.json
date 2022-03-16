@@ -1,0 +1,45 @@
+{
+  "name": "@stdlib/random-base-exponential",
+  "version": "0.0.0",
+  "description": "Exponentially distributed pseudorandom numbers.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-base-exponential.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "prng",
+    "rng",
+    "pseudorandom",
+    "random",
+    "rand",
+    "randexp",
+    "rexp",
+    "exponential",
+    "exp",
+    "generator",
+    "seed",
+    "seedable",
+    "factory",
+    "life-times",
+    "memoryless",
+    "rate",
+    "waiting times"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
