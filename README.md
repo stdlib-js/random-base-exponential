@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-exponential@esm/index.mjs';
+import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-exponential@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-exponential@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-exponential@v0.2.2-esm/index.mjs';
 ```
 
 #### exponential( lambda )
@@ -387,7 +387,7 @@ var o = rand.toJSON();
 <body>
 <script type="module">
 
-import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-exponential@esm/index.mjs';
+import exponential from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-exponential@v0.2.2-esm/index.mjs';
 
 var seed;
 var rand;
